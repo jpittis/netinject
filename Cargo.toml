@@ -1,0 +1,8 @@
+[package]
+name = "netinject"
+version = "0.1.0"
+authors = ["jpittis"]
+edition = "2018"
+
+[dependencies]
+iptables = "0.2.2"
