@@ -5,4 +5,4 @@ authors = ["jpittis"]
 edition = "2018"
 
 [dependencies]
-iptables = "0.2.2"
+iptables = { git = "https://github.com/jpittis/rust-iptables", branch = "jpittis/master" }
